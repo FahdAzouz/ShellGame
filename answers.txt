@@ -1,0 +1,11 @@
+WilliamShakespeare, CharlesDickens, JaneAusten;WilliamShakespeare
+LeonardodaVinci, Michelangelo, Raphael;LeonardodaVinci
+Diamond, Quartz, Gold;Diamond
+AlexanderFleming, MarieCurie, AlbertEinstein;AlexanderFleming
+Bluewhale, Africanelephant, Giraffe;Bluewhale
+GeorgeOrwell, JaneAusten, CharlesDickens;JaneAusten
+Thermometer, Barometer, Hygrometer;Barometer
+Oxygen, Carbondioxide, Nitrogen;Carbondioxide
+IsaacNewton, AlbertEinstein, NikolaTesla;AlbertEinstein
+Tomato, Avocado, Pepper;Avocado
+Saturn, Jupiter, Mercury;Jupiter
